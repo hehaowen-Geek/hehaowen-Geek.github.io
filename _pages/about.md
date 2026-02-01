@@ -44,6 +44,8 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
+- *2025.07*: &nbsp;🎉🎉 河南省第九届“御网杯”全国大学生网络安全大赛--荣获总决赛三等奖
+- *2025.07*: &nbsp;🎉🎉 Awarded Third Prize in the Finals of the 9th "Yu Wang Cup" National Undergraduate Cybersecurity Contest (Henan Province).
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
