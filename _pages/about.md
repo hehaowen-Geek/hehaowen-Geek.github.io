@@ -70,8 +70,22 @@ redirect_from:
 - *2025.11*：&nbsp;🎉🎉 Awarded Third Prize in the National Finals of the Belt & Road & BRICS Skills Development and Technology Innovation Competition (ITAI Adaptation & Security Management).
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<h2>📖 Educations</h2>
+<ul>
+    <li>
+        <em>2024.09 - 至今:</em> &nbsp; <strong>漯河食品工程职业大学 (Luohe Food Engineering Vocational University)</strong>，大二在读。
+    </li>
+    <li>
+        <em>2024.09 - Present:</em> &nbsp; <strong>Luohe Food Engineering Vocational University</strong>, Sophomore student.
+    </li>
+    <br>
+    <li>
+        <em>2021.09 - 2024.06:</em> &nbsp; <strong>河南新华电脑学院 (Henan Xinhua Computer College)</strong>，网络安全专业毕业。
+    </li>
+    <li>
+        <em>2021.09 - 2024.06:</em> &nbsp; <strong>Henan Xinhua Computer College</strong>, Graduated in Cybersecurity major.
+    </li>
+</ul>
 
 # 💬 Invited Talks
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
