@@ -16,22 +16,33 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
+<h2>About Me 👨‍💻</h2>
+
 <p>
-    我是<strong>赫浩文</strong>，一名深耕于<strong>计算机网络</strong>与<strong>信息安全</strong>领域的开发者。
-    我热衷于探索底层网络协议、Linux 系统运维以及网络攻防技术。
+    你好！我是<strong>赫浩文 (Haowen HE)</strong>。我是一名专注于<strong>计算机网络</strong>与<strong>企业网架构</strong>的技术实干家。
+</p>
+<p>
+    Hi! I am <strong>Haowen HE</strong>, a technical practitioner focusing on <strong>Computer Networking</strong> and <strong>Enterprise Network Architecture</strong>.
 </p>
 
+<p>Technical Expertise & Focus 🔬:</p>
 <ul>
-    <li><strong>专业背景：</strong> 持有 Red Hat 认证系统管理员 (RHCSA) 以及 CISO 网络安全/应用/技术等五项专项工程师证书。</li>
-    <li><strong>实践经验：</strong> 漯河食品工程职业大学网络安全协会创始人；曾获河南省“御网杯”网络安全大赛总决赛三等奖。</li>
-    <li><strong>技术栈：</strong> 熟悉 BGP 协议、Docker 容器化技术、MySQL 数据库管理及自动化运维。</li>
+    <li><strong>SME Networking:</strong> 精通中小企业网络架构搭建与实战部署。</li>
+    <li><strong>Advanced Routing & Switching:</strong> 正在深入研习 <strong>CCIE (Cisco Certified Internetwork Expert)</strong> 相关高级网络技术。</li>
+    <li><strong>System & Ops:</strong> 熟练掌握 Linux 系统管理、服务器运维及自动化技术。</li>
 </ul>
 
 <p>
-    我目前正在积极参与“挑战杯”竞赛，并致力于通过技术实践解决复杂的网络安全挑战。
+    此外，我发起创办了校内的<strong>网络安全协会</strong>，致力于将网络理论应用于真实的攻防与架构实践中。
+</p>
+<p>
+    Additionally, I founded the <strong>Network Security Association</strong> at my university, aiming to bridge the gap between network theory and real-world infrastructure practice.
 </p>
 
-
+<p>
+    如果你对网络工程、架构设计感兴趣，欢迎通过邮件交流！📩 🚀
+</p>>
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 河南省第九届“御网杯”全国大学生网络安全大赛--荣获总决赛三等奖
 - *2025.07*: &nbsp;🎉🎉 Awarded Third Prize in the Finals of the 9th "Yu Wang Cup" National Undergraduate Cybersecurity Contest (Henan Province).
