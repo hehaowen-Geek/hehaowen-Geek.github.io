@@ -42,9 +42,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - *2025.07*: &nbsp;🎉🎉 河南省第九届“御网杯”全国大学生网络安全大赛--荣获总决赛三等奖
-- *2025.07*: &nbsp;🎉🎉 Awarded Third Prize in the Finals of the 9th "Yu Wang Cup" National Undergraduate Cybersecurity Contest (Henan Province).
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11*：&nbsp;🎉🎉 一带一路暨金砖国家技能发展与技术创新大赛（信创适配及安全管理赛项）全国总决赛三等奖
+- *2025.07*：&nbsp;🎉🎉 Awarded Third Prize in the Finals of the 9th "Yu Wang Cup" National Undergraduate Cybersecurity Contest (Henan Province).
+- *2025.11*：&nbsp;🎉🎉 Awarded Third Prize in the National Finals of the Belt & Road & BRICS Skills Development and Technology Innovation Competition (ITAI Adaptation & Security Management).
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
