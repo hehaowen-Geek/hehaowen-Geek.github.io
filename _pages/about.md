@@ -39,7 +39,9 @@ redirect_from:
 <p>
     Additionally, I founded the <strong>Network Security Association</strong> at my university, aiming to bridge the gap between network theory and real-world infrastructure practice.
 </p>
-
+   <p> 
+     目前正在为第四十八届世界技能大赛做准备！！--无限进步！🚀
+   </p>
 <p>
     如果你对网络工程、架构设计感兴趣，欢迎通过邮件交流！📩 🚀
 </p>
