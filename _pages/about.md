@@ -28,11 +28,6 @@ redirect_from:
 
 
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-</div>
-</div>
-
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
