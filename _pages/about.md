@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+你好，我是一名大二的学生明前从事网络工程方面的工作，这是我的个人网站，本人比较懒所以更新的比较慢
 
 
 
