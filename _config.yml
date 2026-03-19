@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haowen HE(赫浩文)"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "目前大二在读"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -20,7 +20,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haowen HE(赫浩文)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Luohe Food Engineering Vocational University"
+  bio              : "漯河食品工程职业大学"
   location         : "Beijing, China"
   employer         : 
   pubmed           : 
@@ -53,6 +53,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  wetchat          : "Hehaowen_TechLab"
 
 
 # Reading Files
