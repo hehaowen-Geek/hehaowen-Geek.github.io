@@ -32,7 +32,7 @@ redirect_from:
 
 # 🎖 Honors and Awards
 - *2025.07* 河南省第九届御网杯总决赛--三等奖
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11* 一带一路暨金砖国家技能发展与技术创新大赛第一届信创适配及安全管理赛项决赛（高职组）--三等奖
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
