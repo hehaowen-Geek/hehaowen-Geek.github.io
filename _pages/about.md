@@ -19,14 +19,7 @@ redirect_from:
 你好，我是一名大二的学生目前从事网络工程方面的工作，这是我的个人网站，本人比较懒所以更新的比较慢
 
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
-
-
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
@@ -40,12 +33,8 @@ redirect_from:
 - *2025.12* 漯河食品工程职业大学 “青春榜样 —— 寻找身边好青年” 荣获”青年榜样“荣誉称号
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+- *2024.09 - 2027.06 (now)*, 漯河食品工程职业大学 专科
+- *2021.09 - 2024.06*, 河南新华电脑学院 中专
+- 
 # 💻 Internships
 - *2021.11 - 2022.11*, 河南新华电脑学院有限公司 -- 网络管理员
